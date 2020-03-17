@@ -30,4 +30,4 @@ Levels:
 - Orace Arena (4) - Stephen Curry
 
 Demo: 
-<img src = "README-IMAGES/Demo1">
+<img src = "README-IMAGES/Demo1.gif">
