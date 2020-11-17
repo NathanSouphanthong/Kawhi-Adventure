@@ -1,5 +1,4 @@
 # Kawhi-Adventure
-Grade 11 AP Final Project 
 
 Inspired by the Pokemon game, Kawhi's adventure utilizes OOP principles and GUI that was learned through Grade 11 Computer Science course. 
 
